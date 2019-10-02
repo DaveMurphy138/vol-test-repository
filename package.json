@@ -1,0 +1,19 @@
+{
+  "name": "vol-test-repository",
+  "version": "1.0.0",
+  "description": "VOL Test Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMurphy138/vol-test-repository.git"
+  },
+  "author": "David Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveMurphy138/vol-test-repository/issues"
+  },
+  "homepage": "https://github.com/DaveMurphy138/vol-test-repository#readme"
+}
