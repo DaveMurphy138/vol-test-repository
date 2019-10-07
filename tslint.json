@@ -1,8 +1,8 @@
 {
     "defaultSeverity": "error",
     "extends": [
-        "tslint:recommended"
-        "tslint-plugin-prettier"
+        "tslint:recommended",
+        "tslint-plugin-prettier",
         "tslint-config-prettier"
     ],
     "jsRules": {},
@@ -15,11 +15,11 @@
         "member-ordering": false,
         "max-classes-per-file": false,
         "interface-name": false,
-        "no-empty-interface": false
+        "no-empty-interface": false,
         "no-namespace": false,
-        "no-implicit-dependancies": [true, "dev"]
+        "no-implicit-dependancies": [true, "dev"],
         "only-arrow-functions": false,
         "prettier":true
-    }
+    },
     "rulesDirectory": []
 }
